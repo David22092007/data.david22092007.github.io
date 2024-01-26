@@ -51,4 +51,4 @@ def new_bie():
 
 
 if _name_ == "_main_":
-  app.run(debug=True, host="0.0.0.0", port=80)
+  app.run()
